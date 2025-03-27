@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yuthapum.seniorapp",
+      "sha256_cert_fingerprints": [
+        "3C:75:A1:CA:7C:E4:2D:27:AA:AE:22:B2:1B:56:A1:A2:1D:79:27:94:C4:EE:44:9D:A5:D0:83:EA:A3:E2:56:34"
+      ]
+    }
+  }
+]
